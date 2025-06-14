@@ -1,21 +1,15 @@
 {
-  "name": "inter-mediator/imapp-template",
+  "name": "msyk/imtesting_messaging",
   "version": "2",
   "time": "2024-01-13",
-  "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/INTER-Mediator/IMApp-template.git"
-    }
-  ],
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=7.4.0",
+    "php": ">=8.1.0",
     "inter-mediator/inter-mediator": "dev-master"
   },
   "autoload": {},
-  "description": "INTER-Mediator Application Template.",
+  "description": "INTER-Mediator Testing Application for Email features.",
   "type": "application",
   "keywords": [
     "INTER-Mediator",
